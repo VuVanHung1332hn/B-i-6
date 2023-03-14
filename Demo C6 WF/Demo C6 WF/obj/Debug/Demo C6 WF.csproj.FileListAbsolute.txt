@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\bin\Debug\Demo C6 WF.exe.config
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\bin\Debug\Demo C6 WF.exe
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\bin\Debug\Demo C6 WF.pdb
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo C6 WF.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo C6 WF.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo_C6_WF.Properties.Resources.resources
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo C6 WF.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo C6 WF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo C6 WF.exe
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo C6 WF.pdb
+C:\Users\DELL\source\repos\Demo C6 WF\Demo C6 WF\obj\Debug\Demo_C6_WF.Form1.resources
